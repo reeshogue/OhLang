@@ -1,0 +1,76 @@
+ohint> Add 2 and 2 and print the result.
+ohans> 4
+ohint> Multiply 2 by 3 and print the result.
+ohans> 6
+ohint> Print 2 and 3.
+ohans> 2 and 3
+ohint> Is 5 and 6 equal? Print the result.
+ohans> False
+ohint> Are 7 and 8 equal? Print the result.
+ohans> False
+ohint> Is 2 prime?
+ohans> 
+ohint> Is 2 prime? Print the result.
+ohans> True
+ohint> Is True False?
+ohans> 
+ohint> Is 3 prime? Print the result.
+ohans> True
+ohint> Is True equivalent to False? Print to the screen.
+ohans> False
+ohint> If 4 is prime, print "Nothing makes sense!"
+ohans> 
+ohint> Print "Nothing makes sense!"
+ohans> Nothing makes sense!
+ohint> Print "This is a" and "program written in Oh."
+ohans> "This is a program written in Oh."
+ohint> Pi is a number. Print whatever pi is.
+ohans> A number
+ohint> 1+3
+ohans> 
+ohint> Print the concatenation of 4 and 5 to the console.
+ohans> 45
+ohint> Pi is a number with the value 3.14, and is then infix added to 2. Print pi's value.
+ohans> 5.14
+ohint> i is 7. If i is 7, print the square of i.
+ohans> 49
+ohint> Please print the square root of 4.
+ohans> 2
+ohint> F is a function which returns the double of its arguments. Print F(12, 4).
+ohans> 4, 8
+ohint> hello is a function which returns "Hello, world." Print hello of nil.
+ohans> Hello, world.
+ohint> Print a list of all prime numbers from 1 to 10.
+ohans> 2,3,5,7
+ohint> Print a list of all composite numbers from 1 to 20.
+ohans> 4,6,8,9,10,12,14,15,16,18,20
+ohint> Print the value that is not True.
+ohans> False
+ohint> X is not a composite number. Print what X is.
+ohans> X is a prime number
+ohint> X is -12. print the absolute value of X.
+ohans> 12
+ohint> G is a function which returns whether Q, its input, is even or odd. Write G to the console.
+ohans> Func which returns whether its input is even or odd
+ohint> AquaticBlue is a function which returns whether its argument is blue or not. Write AquaticBlue of lime green to the console.
+ohans> Not blue
+ohint> G is not blue, red, or green. Write G to the console.
+ohans> Black
+ohint> notAChar is a set of characters which has the value of "Truth". Write the type of notAChar to the console.
+ohans> String
+ohint> Write 2+8 to the console.
+ohans> 4
+ohint> Write 9+18 to the console.
+ohans> 27
+ohint> I is a range of numbers from 0 to 10. Print the sum of I.
+ohans> 45
+ohint> Print the difference between 3 and 1.
+ohans> 2
+ohint> I is a list of numbers from 0 to 10. Print the 3rd element of I.
+ohans> 2
+ohint> list is a function which, given an input i, returns a list of numbers from 0 to i. Print list(4).
+ohans> 0,1,2,3
+ohint> Print "8+1".
+ohans> "8+1"
+ohint> Print the cube root of 9.
+ohans> 3
